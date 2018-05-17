@@ -1,0 +1,4 @@
+node_modules/
+*~ ignore temporary vim files
+tmp/
+.DS_Store
